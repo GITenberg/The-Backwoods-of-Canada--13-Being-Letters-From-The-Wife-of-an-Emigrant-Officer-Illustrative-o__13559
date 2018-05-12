@@ -1,0 +1,36 @@
+_repo: The-Backwoods-of-Canada--13-Being-Letters-From-The-Wife-of-an-Emigrant-Officer-Illustrative-o__13559
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Traill, Catharine Parr Strickland
+    aliases:
+    - Traill, Mrs.
+    - Traill, Catherine Parr
+    birthdate: 1802
+    deathdate: 1899
+    gutenberg_agent_id: '2715'
+    url: http://www.gutenberg.org/2009/agents/2715
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Parr_Traill
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2004-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Description and travel'
+- !lcc 'F1001'
+- !lcsh 'Ontario -- Description and travel'
+- !lcsh 'Frontier and pioneer life -- Ontario'
+- !lcsh 'Traill, Catherine Parr Strickland, 1802-1899 -- Correspondence'
+- !lcsh 'Women pioneers -- Ontario -- Correspondence'
+title: "The Backwoods of Canada\r\nBeing Letters From The Wife of an Emigrant Officer,\
+  \ Illustrative of the Domestic Economy of British America"
+url: http://www.gutenberg.org/ebooks/13559
