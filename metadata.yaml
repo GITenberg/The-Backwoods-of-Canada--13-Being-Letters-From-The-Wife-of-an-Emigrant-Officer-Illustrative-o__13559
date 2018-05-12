@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2715
     wikipedia: http://en.wikipedia.org/wiki/Catharine_Parr_Traill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13559#The-Backwoods-of-Canada--13-Being-Letters-From-The-Wife-of-an-Emigrant-Officer-Illustrative-o_
 gutenberg_bookshelf: Canada
 gutenberg_issued: '2004-09-30'
 gutenberg_type: Text
